@@ -1,0 +1,11 @@
+edad="18" 
+print(type(edad))
+edad=int(edad)
+print(edad)
+edad=edad+5
+print(edad)
+#edad=str(edad)
+edad=edad+10
+print(type(edad))
+print(edad)
+print(edad)
